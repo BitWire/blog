@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Deskhelper Blog",
+  "url": "https://blog.deskhelper.de/",
+  "description": "Deskhelper Blog - Tech, Spielereien, Pine64 Experimente, Kram. Vielleicht auch Rants.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Deskhelper Blog - Tech, Spielereien, Pine64 Experimente, Kram. Vielleicht auch Rants.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://blog.deskhelper.de/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Thomas Schmidt",
+    "email": "thomas.schmidt@deskhelper.de"
   }
 }

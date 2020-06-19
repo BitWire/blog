@@ -7,4 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Informatik Student, 23, pan, he/him. Profile Picture by wonderful [Aya](https://twitter.com/SilverBiscuit_)
+Hier gibts: Tech, Spielereien, Pine64 Experimente, Kram. Vielleicht auch Rants.

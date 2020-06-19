@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.deskhelper.de/about/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/posts/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/page-list/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/tags/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/tags/personal/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.deskhelper.de/posts/Hallo-Welt/</loc>
+    <lastmod>2020-06-19</lastmod>
+  </url>
+</urlset>

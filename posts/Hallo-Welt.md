@@ -1,7 +1,7 @@
 ---
 title: Hallo Welt!
 description: Wer bin ich und wenn ja wie viele? Was mach ich hier eigentlich?
-date: 19-06-2020
+date: 2020-06-19
 tags:
   - personal
 layout: layouts/post.njk

@@ -7,5 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-Informatik Student, 23, pan, he/him. Profile Picture by wonderful [Aya](https://twitter.com/SilverBiscuit_)
+<img src="profile.png" alt="profile picture" style="width:200px;"/>
+
+Informatik Student, 23, pan, he/him. Picture by wonderful [Aya](https://twitter.com/SilverBiscuit_)  
 Hier gibts: Tech, Spielereien, Pine64 Experimente, Kram. Vielleicht auch Rants.
